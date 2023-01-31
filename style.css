@@ -61,7 +61,7 @@ header nav ul li a {
 
 .heading {
   background-image: linear-gradient(rgba(11, 8, 8, 0.298), rgba(7, 4, 4, 0.526)),
-    url(../src/images/background.webp);
+    url(./src/images/background.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
